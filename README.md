@@ -5,8 +5,8 @@ Ejemplos de uso de los principales elementos de HTML
 
 **Contenido:**
 
--Encabezados
--Parrafos 
--Listas
--Tablas
--Formularios
+- Encabezados
+- Parrafos 
+- Listas
+- Tablas
+- Formularios
